@@ -1,0 +1,26 @@
+{
+  "name": "welcome",
+  "version": "1.0.0",
+  "description": "Yet another welcome bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themysticsavages/welcomebot.git"
+  },
+  "author": "themysticsavages",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/themysticsavages/welcomebot/issues"
+  },
+  "homepage": "https://github.com/themysticsavages/welcomebot#readme",
+  "dependencies": {
+    "better-sqlite3": "^7.4.1",
+    "discord-prefix": "^2.0.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "sqlite3": "^5.0.2"
+  }
+}
